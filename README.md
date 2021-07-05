@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning Python, C++, HTML, CSS, JavaScript.
 - 📫 How to reach me firattunaarslandaaa@gmail.com
-- It's my sites: tekoforum.wixsite.com/tekoforum
+- It's my sites: https://tekoforum.wixsite.com/tekoforum
 
 <!---
 firattunaarslan/firattunaarslan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
