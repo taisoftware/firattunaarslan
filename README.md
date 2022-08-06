@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @firattunaarslan, I'm 16 years old.
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning Python, HTML, CSS
-- It's my sites: www.tai.cf
